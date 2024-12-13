@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in Software Architecture Engineering
   
-- 🌱 I’m currently learning Spring , .Net
+- 🌱 I’m currently learning Spring Boot , .Net
 
 - 😄 Pronouns: Jmaylaa
   
