@@ -4,8 +4,8 @@
   
 - 🌱 I’m currently learning Spring Boot , .Net
 
-- 😄 Pronouns: Jmaylaa
+- 😄 Pronouns  :  Jmaylaa
   
-- 📫 How to reach me : Benabdeljamyla@gmail.com 
+- 📫 How to reach me  :  Benabdeljamyla@gmail.com 
   
-- ⚡ Fun fact:I enjoy preparing meals
+- ⚡ Fun fact  :  I enjoy preparing meals
